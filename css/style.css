@@ -66,7 +66,7 @@ body{
 }
 .skillSection,
 .contactSection{
-    background-color:#ff5252;
+    background-color:#303a52;
     color:  white;
 
 }
@@ -330,7 +330,7 @@ body{
 }
 
 #navigation{
-    background-color: #FF5252;
+    background-color: #575151;
     padding: 20px 10px;
     z-index: 100;
     width: 100%;
