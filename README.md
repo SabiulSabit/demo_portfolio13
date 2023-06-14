@@ -2,4 +2,4 @@
 This is a demo portfolio template.
 
 
-Build with: HTML, CSS anD JavaScript. 
+Build with: HTML, CSS and JavaScript. 
